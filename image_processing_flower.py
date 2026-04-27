@@ -1,3 +1,7 @@
+"""
+Домашнє завдання 1, група результатів 1
+"""
+
 import cv2
 from matplotlib import pyplot as plt
 
